@@ -1,0 +1,14 @@
+layout_spectrum: 0.40284551912918687
+typography_spectrum: 0.33367538498714566
+color:
+  brandStrength: 0.07167628221213818
+  lightness: 0.31150040216743946
+  saturation: 0.23706359858624637
+  rhythmicContrast: 0.2873682219069451
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: DurhamStuff
